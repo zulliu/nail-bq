@@ -30,6 +30,9 @@ Nail-BQ is a mini app designed to assist job seekers in preparing for interviews
     ```
 5. The application will start and be available at `http://localhost:5173`.
 
+## ToDo
+- My Favorite List
+
 ## Contributing
 
 If you have suggestions for improvements, or want to report a bug. I'd love to hear from you.
