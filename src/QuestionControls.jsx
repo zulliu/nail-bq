@@ -7,7 +7,7 @@ import {
 } from '@material-tailwind/react';
 const QuestionControls = ({ onPrevious, fields, onNext }) => {
   return (
-    <>
+    <div className='flex flex-col'>
       <ButtonGroup>
         <Button className='w-36' onClick={onPrevious}>
           Previous
@@ -16,7 +16,7 @@ const QuestionControls = ({ onPrevious, fields, onNext }) => {
           Next
         </Button>
       </ButtonGroup>
-      <List className='flex-row'>
+      <List className='flex-col'>
         {fields.map((field, index) => (
           <ListItem key={index} className='p-0'>
             <Checkbox defaultChecked onClick={() => toggleField(field)} />
@@ -24,7 +24,7 @@ const QuestionControls = ({ onPrevious, fields, onNext }) => {
           </ListItem>
         ))}
       </List>
-    </>
+    </div>
   );
 };
 export default QuestionControls;

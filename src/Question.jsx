@@ -1,6 +1,7 @@
 import {
   Card,
   CardBody,
+  CardFooter,
   Accordion,
   AccordionHeader,
   AccordionBody,
@@ -69,29 +70,34 @@ const Question = () => {
   };
 
   return (
-    <Card className='mt-2 w-[960px] h-96 flex flex-col'>
+    <Card className='mt-2 mx-auto w-full max-w-[960px] h-96 flex flex-row'>
       <QuestionControls
         onNext={handleNextRandom}
         fields={activeFields}
         onPrevious={handlePrevious}
       />
-      <CardBody>
-        <Typography variant='h4' className='px-8'>
-          Question
-        </Typography>
-        <Typography className='px-8 mt-8 text-xl'>
-          {questions[currentQuestionIndex]?.question}
-        </Typography>
-      </CardBody>
-      {/* This will push the next content to the bottom */}
-      <Accordion className='px-12 mb-12' open={showHint}>
-        <AccordionHeader onClick={handleShowHint}>
-          Click to Show Hint
-        </AccordionHeader>
-        {showHint && (
-          <AccordionBody>{questions[currentQuestionIndex]?.hint}</AccordionBody>
-        )}
-      </Accordion>
+      <div className='flex flex-col'>
+        <CardBody className='h-40 w-[400px]'>
+          <Typography variant='h4' className='px-2 flex-wrap'>
+            Question
+          </Typography>
+          <Typography className='px-2 mt-8 text-xl'>
+            {questions[currentQuestionIndex]?.question}
+          </Typography>
+        </CardBody>
+        <CardFooter className='h-20 w-[400px]'>
+          <Accordion className='px-2 mt-12' open={showHint}>
+            <AccordionHeader onClick={handleShowHint} className='text-md'>
+              Click to Show Hint
+            </AccordionHeader>
+            {showHint && (
+              <AccordionBody>
+                {questions[currentQuestionIndex]?.hint}
+              </AccordionBody>
+            )}
+          </Accordion>
+        </CardFooter>
+      </div>
     </Card>
   );
 };

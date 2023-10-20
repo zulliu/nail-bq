@@ -5,11 +5,11 @@ import MyList from './MyList';
 
 function App() {
   return (
-    <div className='flex flex-col items-center justify-center h-screen'>
+    <>
       <Question />
       <Timer />
       {/* <MyList /> */}
-    </div>
+    </>
   );
 }
 
