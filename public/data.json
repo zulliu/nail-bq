@@ -1,0 +1,354 @@
+{
+  "data": [
+    {
+      "questionId": 1,
+      "question": "Describe a time when you managed a project under a tight deadline.",
+      "field": "Adaptability",
+      "tags": ["Project Management", "Time Delivery"],
+      "hint": "Focus on your project management skills and ability to handle pressure."
+    },
+    {
+      "questionId": 2,
+      "question": "Give an example of how you have effectively used feedback to improve your work.",
+      "field": "Continuous Learning",
+      "tags": ["Uses Feedback", "Self Improvement"],
+      "hint": "Discuss the importance of feedback and continuous learning."
+    },
+    {
+      "questionId": 3,
+      "question": "Tell me about a time when you had to adapt to a significant change in a project.",
+      "field": "Adaptability",
+      "tags": ["Handles Ambiguity", "Teamwork"],
+      "hint": "Highlight adaptability and teamwork."
+    },
+    {
+      "questionId": 4,
+      "question": "Describe a situation where you put the needs of the user first in your software design.",
+      "field": "User Focus",
+      "tags": ["User First", "Ethical Design"],
+      "hint": "Demonstrate empathy and user-focused design principles."
+    },
+    {
+      "questionId": 5,
+      "question": "Give an example of a time when you challenged the status quo in a work environment.",
+      "field": "Problem-Solving",
+      "tags": ["Challenges Norms", "Innovative"],
+      "hint": "Showcase your innovative thinking and courage to challenge existing practices."
+    },
+    {
+      "questionId": 6,
+      "question": "How have you shown care for your team's well-being or morale during a stressful period?",
+      "field": "Teamwork",
+      "tags": ["Supportive", "Empathetic"],
+      "hint": "Emphasize emotional intelligence and supportiveness."
+    },
+    {
+      "questionId": 7,
+      "question": "Describe a project where your initial approach failed and you had to course-correct.",
+      "field": "Problem-Solving",
+      "tags": ["Adaptable", "Resilient"],
+      "hint": "Focus on problem-solving skills and adaptability."
+    },
+    {
+      "questionId": 8,
+      "question": "How do you stay informed about new technologies and apply them to your work?",
+      "field": "Continuous Learning",
+      "tags": ["Tech Savvy", "Proactive Learning"],
+      "hint": "Highlight a passion for learning and practical application."
+    },
+    {
+      "questionId": 9,
+      "question": "Can you discuss a time when your ethics were challenged during a project? How did you handle it?",
+      "field": "User Focus",
+      "tags": ["Ethical", "Principled"],
+      "hint": "Demonstrate moral integrity and the ability to uphold company values."
+    },
+    {
+      "questionId": 10,
+      "question": "Tell me about a time you helped resolve a conflict within your engineering team.",
+      "field": "Teamwork",
+      "tags": ["Mediator", "Collaborative"],
+      "hint": "Showcase interpersonal skills and conflict resolution."
+    },
+    {
+      "questionId": 11,
+      "question": "Describe a technical project you led and how you allocated tasks among your team members.",
+      "field": "Teamwork",
+      "tags": ["Leadership", "Delegation"],
+      "hint": "Focus on leadership skills and team management."
+    },
+    {
+      "questionId": 12,
+      "question": "How do you prioritize features or tasks when developing software?",
+      "field": "User Focus",
+      "tags": ["Prioritization", "Strategic"],
+      "hint": "Discuss efficient planning and user-focused prioritization."
+    },
+    {
+      "questionId": 13,
+      "question": "Give an example of a complex problem you solved with a simple solution.",
+      "field": "Problem-Solving",
+      "tags": ["Innovative", "Efficient"],
+      "hint": "Highlight innovative thinking and efficiency."
+    },
+    {
+      "questionId": 14,
+      "question": "Have you ever made a mistake in your code that turned into a learning opportunity? What was it?",
+      "field": "Continuous Learning",
+      "tags": ["Learns from Mistakes", "Reflective"],
+      "hint": "Showcase humility and the ability to learn from errors."
+    },
+    {
+      "questionId": 15,
+      "question": "Describe a time when you mentored a team member. What was the outcome?",
+      "field": "Teamwork",
+      "tags": ["Mentorship", "Leadership"],
+      "hint": "Demonstrate leadership and a commitment to team growth."
+    },
+    {
+      "questionId": 16,
+      "question": "How do you ensure quality in your code?",
+      "field": "User Focus",
+      "tags": ["Quality Assurance", "Detailed"],
+      "hint": "Focus on attention to detail and commitment to excellence."
+    },
+    {
+      "questionId": 17,
+      "question": "Tell me about a time you had to explain a complex technical issue to a non-technical stakeholder.",
+      "field": "Communication",
+      "tags": ["Clear Communicator", "Patient"],
+      "hint": "Showcase communication skills and empathy."
+    },
+    {
+      "questionId": 18,
+      "question": "Can you share an experience where a project did not go as planned and how you handled it?",
+      "field": "Adaptability",
+      "tags": ["Flexible", "Problem-Solver"],
+      "hint": "Discuss resilience and problem-solving skills."
+    },
+    {
+      "questionId": 19,
+      "question": "How do you handle disagreements with a team member regarding a technical approach?",
+      "field": "Teamwork",
+      "tags": ["Open-Minded", "Respectful"],
+      "hint": "Highlight interpersonal skills and open-mindedness."
+    },
+    {
+      "questionId": 20,
+      "question": "Describe how you approach deadlines for your coding projects.",
+      "field": "Adaptability",
+      "tags": ["Time Management", "Efficient"],
+      "hint": "Discuss time management strategies and efficiency."
+    },
+    {
+      "questionId": 21,
+      "question": "Share an instance where you had to balance quality with timely delivery.",
+      "field": "Problem-Solving",
+      "tags": ["Balanced", "Pragmatic"],
+      "hint": "Focus on decision-making skills and prioritization."
+    },
+    {
+      "questionId": 22,
+      "question": "How have you contributed to a positive team culture in your past roles?",
+      "field": "Teamwork",
+      "tags": ["Culture Builder", "Positive"],
+      "hint": "Demonstrate commitment to a positive work environment."
+    },
+    {
+      "questionId": 23,
+      "question": "Describe a time when you took a creative approach to solve a coding challenge.",
+      "field": "Problem-Solving",
+      "tags": ["Creative", "Innovative"],
+      "hint": "Showcase creativity and innovative thinking."
+    },
+    {
+      "questionId": 24,
+      "question": "Have you ever had to advocate for your technical decision against opposition? How did you manage it?",
+      "field": "Communication",
+      "tags": ["Advocate", "Confident"],
+      "hint": "Discuss confidence and persuasion skills."
+    },
+    {
+      "questionId": 25,
+      "question": "How do you approach learning a new programming language or technology?",
+      "field": "Continuous Learning",
+      "tags": ["Quick Learner", "Adaptable"],
+      "hint": "Highlight adaptability and a love for learning."
+    },
+    {
+      "questionId": 26,
+      "question": "Tell me about a time you received criticism on your code. How did you respond?",
+      "field": "Continuous Learning",
+      "tags": ["Accepts Feedback", "Improves"],
+      "hint": "Show receptiveness and the ability to use feedback constructively."
+    },
+    {
+      "questionId": 27,
+      "question": "Describe an initiative you took beyond your regular duties to improve something within your previous project or team.",
+      "field": "Teamwork",
+      "tags": ["Proactive", "Initiative"],
+      "hint": "Demonstrate proactivity and a sense of responsibility."
+    },
+    {
+      "questionId": 28,
+      "question": "How do you ensure that your technical knowledge stays current?",
+      "field": "Continuous Learning",
+      "tags": ["Up-to-date", "Informed"],
+      "hint": "Discuss commitment to professional development."
+    },
+    {
+      "questionId": 29,
+      "question": "Share an example of how you've had to adjust your communication style to work effectively with a team member or stakeholder.",
+      "field": "Communication",
+      "tags": ["Adaptable", "Empathetic"],
+      "hint": "Highlight adaptability and interpersonal skills."
+    },
+    {
+      "questionId": 30,
+      "question": "Can you discuss a time when you had to prioritize user needs over technical perfection?",
+      "field": "User Focus",
+      "tags": ["User-Oriented", "Practical"],
+      "hint": "Emphasize user-centric thinking and practicality."
+    },
+    {
+      "questionId": 31,
+      "question": "Can you discuss a time when you had to work with a difficult team member?",
+      "field": "Teamwork",
+      "tags": ["Conflict Resolution", "Patience"],
+      "hint": "Consider discussing your communication skills and patience."
+    },
+    {
+      "questionId": 32,
+      "question": "How do you approach onboarding onto a new project or technology you're unfamiliar with?",
+      "field": "Adaptability",
+      "tags": ["Quick Learner", "Initiative"],
+      "hint": "Highlight your strategies for quick learning."
+    },
+    {
+      "questionId": 33,
+      "question": "Describe a time when you improved the efficiency of a piece of code or system.",
+      "field": "Problem-Solving",
+      "tags": ["Optimization", "Efficiency"],
+      "hint": "Discuss your problem-solving skills and attention to detail."
+    },
+    {
+      "questionId": 34,
+      "question": "Have you contributed to any open source projects? What was your contribution?",
+      "field": "Continuous Learning",
+      "tags": ["Community Contribution", "Collaboration"],
+      "hint": "Share your experience contributing to the wider tech community."
+    },
+    {
+      "questionId": 35,
+      "question": "How do you handle urgent bug fixes?",
+      "field": "Adaptability",
+      "tags": ["Crisis Management", "Efficiency"],
+      "hint": "Consider discussing prioritization and efficiency under pressure."
+    },
+    {
+      "questionId": 36,
+      "question": "Describe a time when you had to juggle multiple projects with competing deadlines.",
+      "field": "Problem-Solving",
+      "tags": ["Time Management", "Prioritization"],
+      "hint": "Show how you manage your time and priorities effectively."
+    },
+    {
+      "questionId": 37,
+      "question": "How do you stay motivated during long-term projects?",
+      "field": "Continuous Learning",
+      "tags": ["Motivation", "Focus"],
+      "hint": "Discuss personal strategies for maintaining enthusiasm and focus."
+    },
+    {
+      "questionId": 38,
+      "question": "Describe your experience with pair programming or code reviews.",
+      "field": "Communication",
+      "tags": ["Collaboration", "Feedback"],
+      "hint": "Share your experience with collaborative engineering practices."
+    },
+    {
+      "questionId": 39,
+      "question": "How do you ensure you understand project requirements clearly?",
+      "field": "Communication",
+      "tags": ["Clarification", "Understanding"],
+      "hint": "Emphasize your communication skills with stakeholders."
+    },
+    {
+      "questionId": 40,
+      "question": "Describe a time you had to learn a new programming language or framework quickly.",
+      "field": "Continuous Learning",
+      "tags": ["Adaptability", "Quick Learning"],
+      "hint": "Highlight your adaptability and passion for learning."
+    },
+    {
+      "questionId": 41,
+      "question": "What has been the most challenging technical project you have worked on?",
+      "field": "Problem-Solving",
+      "tags": ["Challenge", "Complexity"],
+      "hint": "Discuss your problem-solving skills in complex scenarios."
+    },
+    {
+      "questionId": 42,
+      "question": "How do you keep up with industry trends and news?",
+      "field": "Continuous Learning",
+      "tags": ["Current", "Informed"],
+      "hint": "Share your strategies for staying updated with industry knowledge."
+    },
+    {
+      "questionId": 43,
+      "question": "Can you give an example of a time when you had to explain technical details to a non-technical audience?",
+      "field": "Communication",
+      "tags": ["Clarity", "Simplification"],
+      "hint": "Highlight your ability to communicate complex information simply."
+    },
+    {
+      "questionId": 44,
+      "question": "How do you handle technical disagreements within your team?",
+      "field": "Teamwork",
+      "tags": ["Conflict Resolution", "Team Harmony"],
+      "hint": "Consider discussing compromise and collaboration."
+    },
+    {
+      "questionId": 45,
+      "question": "Describe a time when you took on responsibilities beyond your role.",
+      "field": "Adaptability",
+      "tags": ["Initiative", "Extra Mile"],
+      "hint": "Show your willingness to go above and beyond."
+    },
+    {
+      "questionId": 46,
+      "question": "Have you ever introduced a new tool or technology to your team? How did you do it?",
+      "field": "Continuous Learning",
+      "tags": ["Innovation", "Leadership"],
+      "hint": "Discuss your ability to innovate and lead."
+    },
+    {
+      "questionId": 47,
+      "question": "How do you approach documentation of your code or projects?",
+      "field": "Communication",
+      "tags": ["Documentation", "Clarity"],
+      "hint": "Emphasize the importance of clear, comprehensive documentation."
+    },
+    {
+      "questionId": 48,
+      "question": "What strategies do you use to debug a complex issue?",
+      "field": "Problem-Solving",
+      "tags": ["Debugging", "Persistence"],
+      "hint": "Discuss your systematic approach to problem-solving."
+    },
+    {
+      "questionId": 49,
+      "question": "Describe a situation where you had to collaborate with other departments to succeed.",
+      "field": "Teamwork",
+      "tags": ["Cross-Functional", "Collaboration"],
+      "hint": "Show your ability to work in cross-functional environments."
+    },
+    {
+      "questionId": 50,
+      "question": "How do you decide on the best tech stack for a new project?",
+      "field": "Problem-Solving",
+      "tags": ["Decision-Making", "Tech Savvy"],
+      "hint": "Consider discussing how you balance various factors like project needs, team skills, budget, and timeline."
+    }
+  ]
+}
