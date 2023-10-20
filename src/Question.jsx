@@ -77,16 +77,16 @@ const Question = () => {
         onPrevious={handlePrevious}
       />
       <div className='flex flex-col'>
-        <CardBody className='h-40 w-[400px]'>
-          <Typography variant='h4' className='px-2 flex-wrap'>
+        <CardBody className='h-40 w-5/6 mx-12 px-2'>
+          <Typography variant='h4' className='px-0 flex-wrap'>
             Question
           </Typography>
-          <Typography className='px-2 mt-8 text-xl'>
+          <Typography className='px-0 mt-4 text-xl'>
             {questions[currentQuestionIndex]?.question}
           </Typography>
         </CardBody>
-        <CardFooter className='h-20 w-[400px]'>
-          <Accordion className='px-2 mt-12' open={showHint}>
+        <CardFooter className='h-20 w-5/6 ml-12 px-2'>
+          <Accordion className='mt-12' open={showHint}>
             <AccordionHeader onClick={handleShowHint} className='text-md'>
               Click to Show Hint
             </AccordionHeader>

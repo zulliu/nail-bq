@@ -10,9 +10,9 @@
     {
       "questionId": 2,
       "question": "Give an example of how you have effectively used feedback to improve your work.",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Uses Feedback", "Self Improvement"],
-      "hint": "Discuss the importance of feedback and continuous learning."
+      "hint": "Discuss the importance of feedback and learning."
     },
     {
       "questionId": 3,
@@ -52,7 +52,7 @@
     {
       "questionId": 8,
       "question": "How do you stay informed about new technologies and apply them to your work?",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Tech Savvy", "Proactive Learning"],
       "hint": "Highlight a passion for learning and practical application."
     },
@@ -94,7 +94,7 @@
     {
       "questionId": 14,
       "question": "Have you ever made a mistake in your code that turned into a learning opportunity? What was it?",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Learns from Mistakes", "Reflective"],
       "hint": "Showcase humility and the ability to learn from errors."
     },
@@ -171,14 +171,14 @@
     {
       "questionId": 25,
       "question": "How do you approach learning a new programming language or technology?",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Quick Learner", "Adaptable"],
       "hint": "Highlight adaptability and a love for learning."
     },
     {
       "questionId": 26,
       "question": "Tell me about a time you received criticism on your code. How did you respond?",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Accepts Feedback", "Improves"],
       "hint": "Show receptiveness and the ability to use feedback constructively."
     },
@@ -192,7 +192,7 @@
     {
       "questionId": 28,
       "question": "How do you ensure that your technical knowledge stays current?",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Up-to-date", "Informed"],
       "hint": "Discuss commitment to professional development."
     },
@@ -234,7 +234,7 @@
     {
       "questionId": 34,
       "question": "Have you contributed to any open source projects? What was your contribution?",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Community Contribution", "Collaboration"],
       "hint": "Share your experience contributing to the wider tech community."
     },
@@ -255,7 +255,7 @@
     {
       "questionId": 37,
       "question": "How do you stay motivated during long-term projects?",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Motivation", "Focus"],
       "hint": "Discuss personal strategies for maintaining enthusiasm and focus."
     },
@@ -276,7 +276,7 @@
     {
       "questionId": 40,
       "question": "Describe a time you had to learn a new programming language or framework quickly.",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Adaptability", "Quick Learning"],
       "hint": "Highlight your adaptability and passion for learning."
     },
@@ -290,7 +290,7 @@
     {
       "questionId": 42,
       "question": "How do you keep up with industry trends and news?",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Current", "Informed"],
       "hint": "Share your strategies for staying updated with industry knowledge."
     },
@@ -318,7 +318,7 @@
     {
       "questionId": 46,
       "question": "Have you ever introduced a new tool or technology to your team? How did you do it?",
-      "field": "Continuous Learning",
+      "field": "Learning",
       "tags": ["Innovation", "Leadership"],
       "hint": "Discuss your ability to innovate and lead."
     },

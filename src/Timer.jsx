@@ -38,7 +38,7 @@ const Timer = () => {
   };
 
   return (
-    <Card className='mt-6 w-[320px] '>
+    <Card className='mt-6 w-[320px] mx-auto'>
       <CardBody>
         <Typography variant='h1' className='mb-2'>
           {minutes.toString().padStart(2, '0')}:
